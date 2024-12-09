@@ -1,5 +1,5 @@
 * {
-    margin: 10px 0 0 0;
+    margin: 10px 2px 10px 2px;
     box-sizing: border-box;
     font-family: Helvetica, sans-serif;
 }
@@ -10,11 +10,28 @@ header {
     color: khaki;
     text-align: center;
     background-image: url('/resources/pattern.jpeg');
+    margin-bottom: 30px
 }
 
 h1 {
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+
+#brushes {
     background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+b {
+    font-weight: bold;
+    color: blue;
 }
