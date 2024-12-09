@@ -1,6 +1,5 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 10px 0 0 0;
     box-sizing: border-box;
     font-family: Helvetica, sans-serif;
 }
@@ -10,4 +9,12 @@ header {
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url('/resources/pattern.jpeg');
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
 }
